@@ -15,8 +15,8 @@ This application is configured to monitor the following PagerDuty services:
 
 | Service Name | Service ID | URL |
 |-------------|-----------|-----|
-| EdgeNode Modelling - Prod | `PFDU7FI` | [View in PagerDuty](https://cba.pagerduty.com/service-directory/PFDU7FI) |
-| EdgeNode DP&E Ingestion and controls - Prod | `PBD0TCK` | [View in PagerDuty](https://cba.pagerduty.com/service-directory/PBD0TCK) |
+| ProdModelsystems - Prod | `PFDAAU` | [View in PagerDuty](https://cba.pagerduty.com/service-directory/PFDU7FI) |
+| DPgred - Prod | `PBD0TCK` | [View in PagerDuty](https://cba.pagerduty.com/service-directory/PBD0TCK) |
 
 **Team:** [DPE Prod Ops (P80ZU3K)](https://cba.pagerduty.com/teams/P80ZU3K)
 
